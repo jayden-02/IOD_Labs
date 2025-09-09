@@ -1,2 +1,2 @@
-# IOD_Labs
-Practical work completed during the completion of Certificate of Data Science and Artificial Intelligence with the Institute of Data. Includes topics such as exploratory data analysis, databases and APIs, supervised and unsupervised machine learning, decision trees and ensemble methods, NLP, AI and deep learning, deployment and cloud computing
+# CapstoneProject
+Final capstone project featuring a YouTube Prediction Model. The project used a dataset of more than 4,000,000 rows retrieved from Kaggle. The project showcased exploratory data analysis, feature engineering, text vectoriser, dimensionality reduction, modelling with supervised machine learning, and model comparison. The best-performing model achieved a mean average error of +/- 118.5% and an R^2 score of 0.66.
