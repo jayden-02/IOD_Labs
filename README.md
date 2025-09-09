@@ -1,2 +1,2 @@
-# IOD_Labs
-Practical work completed during the completion of Certificate of Data Science and Artificial Intelligence with the Institute of Data. Includes topics such as exploratory data analysis, databases and APIs, supervised and unsupervised machine learning, decision trees and ensemble methods, NLP, AI and deep learning, deployment and cloud computing
+# Mini Project 3
+This project is on improving customer experience at McDonald's through review analysis and clustering. The project utilises a dataset of 33,396 anonymised reviews retrieved from a Kaggle dataset. An unsupervised learning model was developed with text vectorisation, principal component analysis, and clustering. Additionally, topic modelling was explored. 
