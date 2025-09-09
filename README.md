@@ -1,2 +1,2 @@
-# IOD_Labs
-Practical work completed during the completion of Certificate of Data Science and Artificial Intelligence with the Institute of Data. Includes topics such as exploratory data analysis, databases and APIs, supervised and unsupervised machine learning, decision trees and ensemble methods, NLP, AI and deep learning, deployment and cloud computing
+# MiniProject1
+First project out of 3 projects built throughout the course. This project is on improving student outcomes by analysing drivers behind rising fail rates. The project utilises a dataset of 1000 rows retrieved from Kaggle.
