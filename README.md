@@ -1,2 +1,2 @@
-# IOD_Labs
-Practical work completed during the completion of Certificate of Data Science and Artificial Intelligence with the Institute of Data. Includes topics such as exploratory data analysis, databases and APIs, supervised and unsupervised machine learning, decision trees and ensemble methods, NLP, AI and deep learning, deployment and cloud computing
+# Mini Project 2
+This project is on boosting developer productivity. The project uses a dataset from Kaggle with 500 rows and features 2 supervised learning models: logistic regression and random forest.
